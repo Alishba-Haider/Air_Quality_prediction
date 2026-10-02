@@ -86,11 +86,3 @@ Air-Quality-Prediction/
 * Develop a web-based prediction interface.
 * Display predictions through interactive charts.
 * Improve prediction performance with additional data.
-
-## Author
-
-Your Name
-
-## License
-
-This project is intended for educational and research purposes.
